@@ -14,7 +14,7 @@ Software engineer who wants to **build full-stack web apps and secure them**.
 
 ## 🎯 About Me
 
-<table>
+<table width="100%">
 <tr>
 <td width="58%" valign="top">
 
