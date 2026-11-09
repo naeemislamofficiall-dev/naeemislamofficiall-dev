@@ -41,7 +41,16 @@ const naeem = {
   ],
 
   tech: {
-    language: ["TypeScript"],
+    languages: ["TypeScript", "JavaScript", "Bash"],
+    frontend: ["React", "Next.js", "Tailwind", "HTML5", "CSS3"],
+    backend: ["Node.js", "Express", "NestJS"],
+    database: ["MongoDB", "Prisma", "PocketBase"],
+    devops: ["Docker", "AWS", "Nginx", "Vagrant"],
+    tools: ["Git", "GitHub", "GitHub Actions", "Postman"],
+    security: [
+      "Kali Linux", "Burp Suite", "Wireshark",
+      "Metasploit", "OWASP ZAP", "Nmap",
+    ],
   },
 
   goal: "Build full-stack apps and secure the web",
